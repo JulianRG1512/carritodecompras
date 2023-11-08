@@ -1,0 +1,44 @@
+[
+  {
+    "precio": 3000,
+    "id": 1,
+    "title": "Café",
+    "thumbnailUrl": "/img/cafe.jpg"
+  },
+  {
+    "precio": 10000,
+    "id": 2,
+    "title": "Pizza",
+    "thumbnailUrl": "/img/pizza.jpg"
+  },
+  {
+    "precio": 2000,
+    "id": 3,
+    "title": "Agua",
+    "thumbnailUrl": "/img/agua.jpg"
+  },
+  {
+    "precio": 1500,
+    "id": 4,
+    "title": "Galletas",
+    "thumbnailUrl": "/img/galletas.jpg"
+  },
+  {
+    "precio": 2500,
+    "id": 5,
+    "title": "CupCakes",
+    "thumbnailUrl": "/img/cupcakes.jpg"
+  },
+  {
+    "precio": 6000,
+    "id": 6,
+    "title": "Sandwich",
+    "thumbnailUrl": "/img/sandwich.jpg"
+  },
+  {
+    "precio": 6000,
+    "id": 6,
+    "title": "Sandwich2",
+    "thumbnailUrl": "/img/sandwich.jpg"
+  }
+]
