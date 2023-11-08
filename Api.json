@@ -34,11 +34,6 @@
     "id": 6,
     "title": "Sandwich",
     "thumbnailUrl": "/img/sandwich.jpg"
-  },
-  {
-    "precio": 6000,
-    "id": 6,
-    "title": "Sandwich2",
-    "thumbnailUrl": "/img/sandwich.jpg"
   }
+  
 ]
